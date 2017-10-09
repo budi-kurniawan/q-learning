@@ -1,5 +1,7 @@
 <img src='gridworld.png'/>
 
+A grid world with 12 states, 0 .. 11. State 5 is a wall, State 11 is the goal. State 7 is another absorbing state.
+
 
 Result
 <pre>
