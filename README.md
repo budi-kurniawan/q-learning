@@ -1,3 +1,6 @@
+<img src='gridworld.png'/>
+
+
 Result
 <pre>
           UP    DOWN      LEFT    RIGHT
